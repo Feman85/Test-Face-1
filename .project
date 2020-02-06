@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Test Face 1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>connectiq.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>connectiq.projectNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>TestWatchFace</name>
+			<value>file:/C:/Users/mwatso537/Documents/GitHub/FeMan</value>
+		</variable>
+	</variableList>
+</projectDescription>
